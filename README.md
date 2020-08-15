@@ -104,7 +104,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 bash <(wget -qO- https://git.io/vAtmB)
 ```
 
-Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
+Follow This Video [Hackersploitsec]
 
 ## Installation
 
