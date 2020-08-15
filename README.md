@@ -141,38 +141,3 @@ docker-compose exec fsociety fsociety
 docker-compose down # destroys instance
 ```
 
-# Screenshots
-
-[![asciicast](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz.png)](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz)
-
-![alt logo](https://media.giphy.com/media/xT0xeFxyHAKirrLa24/giphy.gif)
-
-# Contributors
-
-[alexcreek](https://github.com/alexcreek)
-
-[mswell](https://github.com/mswell)
-
-[Ev3](https://github.com/Ev3)
-
-[huangsam](https://github.com/huangsam)
-
-[RyanFilho](https://github.com/RyanFilho)
-
-[gabru-md](https://github.com/gabru-md)
-
-[jdrago999](https://github.com/jdrago999)
-
-[CRO-TheHacker](https://github.com/CRO-THEHACKER)
-
-# License
-
-[MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
-
-# Join the team 
- Do you want to collaborate? Join the project at https://crowdforge.io/projects/409
- 
- # Donate
-- Bitcoin  = 3N8i3Xpi15E11M2zPUm5kPhGjnPSLXcWFt
-- Ethereum = 0xa891e54169182a93cacba41288d16aaffa537503
-
